@@ -1,1 +1,1 @@
-This is a readme file of the airBnB project .
+This is a README File of AirBnB project
